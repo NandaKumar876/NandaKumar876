@@ -11,7 +11,7 @@
 💡 Passionate **Full Stack & IoT Developer**  
 🌱 Currently learning **Next.js, Cloud & API Integration**  
 ⚙️ Love to explore new tech and build creative web apps  
-📫 Reach me at: **pk4747902@gmail.com**
+📫 Reach me at: **nandakumarr3030@gmail.com**
 
 ---
 
@@ -74,8 +74,8 @@
 ### 🌍 Let's Connect  
 
 <p align="center">
-  <a href="mailto:pk4747902@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nanda-kumar-r-608036362"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="nandakumarr3030@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/nanda-kumar-r-608036362](https://www.linkedin.com/in/nanda-kumar-r-608036362/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/NandaKumar876"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
 </p>
 

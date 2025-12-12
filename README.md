@@ -24,6 +24,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+
 
 #### ⚙️ Backend & Database  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)

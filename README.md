@@ -5,19 +5,19 @@
 
 ---
 
-### 👨‍💻 About Me  
+###  About Me  
 
-🎓 **Computer Science & Engineering Student**  
-💡 Passionate **Full Stack & IoT Developer**  
-🌱 Currently learning **Next.js, Cloud & API Integration**  
-⚙️ Love to explore new tech and build creative web apps  
-📫 Reach me at: **nandakumarr3030@gmail.com**
+ **Computer Science & Engineering Student**  
+ Passionate **Full Stack & IoT Developer**  
+ Currently learning **Next.js, Cloud & API Integration**  
+ Love to explore new tech and build creative web apps  
+ Reach me at: **nandakumarr3030@gmail.com**
 
 ---
 
-### ⚡ Tech Stack  
+###  Tech Stack  
 
-#### 💻 Frontend  
+####  Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -28,7 +28,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 
 
-#### ⚙️ Backend & Database  
+####  Backend & Database  
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -38,7 +38,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-#### 🧰 Tools  
+####  Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
@@ -46,20 +46,20 @@
 
 ---
 
-### 🚀 Featured Projects  
+###  Featured Projects  
 
-#### 🧩 [Profile Card](https://github.com/NandaKumar876/profile-card)
+####  [Profile Card](https://github.com/NandaKumar876/profile-card)
 > A sleek personal profile card built using HTML, CSS, and JavaScript.
 
-#### ✅ To-Do List (Advanced)
+####  To-Do List (Advanced)
 > A MERN stack task manager with CRUD operations and MongoDB integration.
 
-#### 🌐 IoT Dashboard  
+####  IoT Dashboard  
 > Real-time dashboard for monitoring IoT sensor data and device activity.
 
 ---
 
-### 🏆 GitHub Trophies  
+###  GitHub Trophies  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NandaKumar876&theme=tokyonight&column=6&margin-w=10&margin-h=10" />
@@ -67,7 +67,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+###  GitHub Stats  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NandaKumar876&show_icons=true&theme=tokyonight" />
@@ -80,7 +80,7 @@
 
 ---
 
-### 🌍 Let's Connect  
+###  Let's Connect  
 
 <p align="center">
   <a href="nandakumarr3030@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
@@ -90,7 +90,7 @@
 
 ---
 
-### 👀 Visitor Count  
+###  Visitor Count  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NandaKumar876&label=Profile+Views&color=00BFFF&style=flat-square" alt="profile views" />
@@ -99,7 +99,7 @@
 ---
 
 <p align="center">
-  💬 “Code is like humor — when you have to explain it, it’s bad.”  
+   “Code is like humor — when you have to explain it, it’s bad.”  
   <br><br>
-  ⭐ Don’t forget to star repositories you like!
+   Don’t forget to star repositories you like!
 </p>

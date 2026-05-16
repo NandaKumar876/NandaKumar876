@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey there, I'm Nanda Kumar 👋
-### Full Stack Developer | Code Craftsman | Bug Whisperer ➡️
+### Full Stack Developer | Code Craftsman | Bug Whisperer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95;Building+things+that+matter+%F0%9F%8C%9F;Always+learning%2C+always+shipping+%F0%9F%93%A6)](https://git.io/typing-svg)
 
@@ -12,16 +12,16 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🔭 Currently working on something awesome (stay tuned!)
-- 🌱 Always levelling up my skills — one commit at a time
-- 💬 Ask me about **Full Stack dev, system design, or anything tech**
-- ⚡ Fun fact: I've talked to more rubber ducks than I can count 🦆
+-  Currently working on something awesome (stay tuned!)
+-  Always levelling up my skills — one commit at a time
+-  Ask me about **Full Stack dev, system design, or anything tech**
+-  Fun fact: I've talked to more rubber ducks than I can count 🦆
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,7 +47,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-## 💼 Work Experience
+##  Work Experience
 
 ### Web Development Intern
 - Developed and maintained responsive web interfaces using HTML, CSS, and JavaScript
@@ -63,19 +63,18 @@
 - Worked in an agile team environment, contributing to sprint planning and daily standups
 ---
 
-## 🌍 Open Source Contributions
+##  Open Source Contributions
 
 > "The best way to learn is to build. The best way to grow is to share."
 
-- 🔀 Contributed PRs to projects in **[mention your domains]**
-- 🐛 Filed issues, reviewed code, and helped fellow devs
-- ⭐ Believer in **giving back** to the community that taught me everything
+   Filed issues, reviewed code, and helped fellow devs
+-  Believer in **giving back** to the community that taught me everything
 
-📌 Check out my pinned repos below — they're my proudest creations!
+ Check out my pinned repos below — they're my proudest creations!
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -89,7 +88,7 @@
 
 ---
 
-## 📬 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
@@ -104,11 +103,11 @@
 
 <div align="center">
 
-### 💭 Random Dev Quote
+###  Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-*⭐ If you like what you see, consider giving my repos a star — it means the world! 🌟*
+* If you like what you see, consider giving my repos a star — it means the world! *
 
 **Made with ❤️ and a lot of

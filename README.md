@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey there, I'm Nanda Kumar 👋
-### Full Stack Developer | Code Craftsman | Bug Whisperer 🐛➡️✨
+### Full Stack Developer | Code Craftsman | Bug Whisperer ➡️
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95;Building+things+that+matter+%F0%9F%8C%9F;Always+learning%2C+always+shipping+%F0%9F%93%A6)](https://git.io/typing-svg)
 
@@ -47,21 +47,20 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 💼 Work Experience
 
-### 🏢 [Your Company Name] — Full Stack Developer
-`📅 Month Year – Present`
-- 🚀 Built and shipped features used by **X,000+ users**
-- 🔧 Optimized backend APIs reducing response time by **XX%**
-- 🤝 Collaborated in agile sprints delivering on-time, every time
+### Web Development Intern
+- Developed and maintained responsive web interfaces using HTML, CSS, and JavaScript
+- Collaborated with the design team to translate wireframes into functional UI components
+- Integrated REST APIs and improved page load performance by optimizing assets
+- Participated in code reviews and followed best practices for clean, maintainable code
 
-### 🏢 [Previous Company] — Junior Developer
-`📅 Month Year – Month Year`
-- 💡 Developed responsive UIs that improved user engagement by **XX%**
-- 🛠️ Maintained and upgraded legacy codebase with zero downtime
-- 📚 Mentored interns and wrote internal documentation
-
+### Full Stack Developer Intern
+- Built end-to-end features across frontend (React) and backend (Node.js, Express)
+- Designed and managed MongoDB/PostgreSQL database schemas for production applications
+- Implemented authentication, authorization, and secure API endpoints
+- Deployed applications on cloud platforms and maintained CI/CD pipelines
+- Worked in an agile team environment, contributing to sprint planning and daily standups
 ---
 
 ## 🌍 Open Source Contributions

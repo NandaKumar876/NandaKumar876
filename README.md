@@ -14,16 +14,6 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const NandaKumar = {
-  role:        "Full Stack Developer",
-  location:    "Chennai, India 🌊",
-  currentFocus: "Building scalable web apps & contributing to OSS",
-  philosophy:  "Clean code is not written, it's rewritten.",
-  funFact:     "I debug faster with lo-fi music on 🎵",
-};
-` `` `
-
 - 🔭 Currently working on something awesome (stay tuned!)
 - 🌱 Always levelling up my skills — one commit at a time
 - 💬 Ask me about **Full Stack dev, system design, or anything tech**
@@ -72,8 +62,6 @@ const NandaKumar = {
 - 🛠️ Maintained and upgraded legacy codebase with zero downtime
 - 📚 Mentored interns and wrote internal documentation
 
-> ✏️ *Update these with your actual experience — you've got a story worth telling!*
-
 ---
 
 ## 🌍 Open Source Contributions
@@ -104,14 +92,12 @@ const NandaKumar = {
 
 ## 📬 Let's Connect!
 
-> I'm always open to exciting projects, collaborations, or just a good tech chat. Drop me a message! 🤝
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nanda-kumar-r-608036362)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NandaKumar_876)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vercel.com/nks-projects-94b0120b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandakumar8554@gmail.com)
 
 </div>
 
@@ -126,16 +112,4 @@ const NandaKumar = {
 
 *⭐ If you like what you see, consider giving my repos a star — it means the world! 🌟*
 
-**Made with ❤️ and a lot of ☕ by Nanda Kumar**
-
-</div>
-```
-
----
-
-**Steps to paste it:**
-1. Select **all** the text in the GitHub editor (`Ctrl + A`)
-2. Delete it, then paste this code (`Ctrl + V`)
-3. Click **"Commit changes"** → **"Commit directly to main"** → ✅ Done!
-
-> Don't forget to replace the placeholder links (`YOUR_LINKEDIN`, `YOUR_EMAIL`, etc.) with your real ones before committing! 🔗
+**Made with ❤️ and a lot of

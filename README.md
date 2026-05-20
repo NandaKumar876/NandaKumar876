@@ -110,4 +110,4 @@
 
 * If you like what you see, consider giving my repos a star — it means the world! *
 
-**Made with ❤️ and a lot of
+Made with ❤️ by Nanda kumar

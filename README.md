@@ -1,4 +1,3 @@
-
 # Nanda Kumar
 
 **Full-Stack Developer** — I work at the intersection of clean engineering and real product thinking. Not just making things run, but making them right.
@@ -46,15 +45,15 @@ I've built across the stack: REST APIs, auth systems, React frontends, database 
 
 <p align="left">
 <a href="https://github.com/NandaKumar876">
-  <img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-NandaKumar876-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/nanda-kumar-r-608036362/">
   <img src="https://img.shields.io/badge/LinkedIn-Nanda_Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto://nandakumarr3030@gmail.com">
-  <img src="https://img.shields.io/badge/Email-yourmail@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="mailto:nandakumarr3030@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nandakumarr3030%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.nandakumar.dev">

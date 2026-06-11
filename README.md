@@ -57,7 +57,7 @@ I've built across the stack: REST APIs, auth systems, React frontends, database 
 </a>
 &nbsp;
 <a href="https://www.nandakumar.dev">
-  <img src="https://img.shields.io/badge/Portfolio-yourportfolio.com-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-nandakumar.dev-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 </p>
 

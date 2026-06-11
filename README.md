@@ -1,14 +1,3 @@
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────┐
-│  nandakumar.dev:~$ whoami                                │
-│  > Full-Stack Developer · Chennai, India            │
-│  > Building systems that scale — and last.          │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
 
 # Nanda Kumar
 
@@ -56,7 +45,7 @@ I've built across the stack: REST APIs, auth systems, React frontends, database 
 ## Let's connect
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/NandaKumar876">
   <img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
@@ -64,7 +53,7 @@ I've built across the stack: REST APIs, auth systems, React frontends, database 
   <img src="https://img.shields.io/badge/LinkedIn-Nanda_Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:nandakumarr3030@gmail.com">
+<a href="mailto://nandakumarr3030@gmail.com">
   <img src="https://img.shields.io/badge/Email-yourmail@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;

@@ -6,7 +6,7 @@ I've built across the stack: REST APIs, auth systems, React frontends, database 
 
 > *I build products that solve problems, not just projects that look good on a resume.*
 
--
+---
 
 ## What I'm working on
 

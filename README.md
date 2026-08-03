@@ -16,7 +16,7 @@ I've built across the stack: REST APIs, auth systems, React frontends, database 
 
 ---
 
-## Stack
+### Stack
 
 **Languages**
 `TypeScript` `JavaScript` `Python` `SQL`

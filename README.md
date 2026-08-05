@@ -1,4 +1,4 @@
-## Nanda Kumar
+# Nanda Kumar
 
 **Full-Stack Developer** — I work at the intersection of clean engineering and real product thinking. Not just making things run, but making them right.
 
